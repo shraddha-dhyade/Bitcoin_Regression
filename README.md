@@ -50,4 +50,7 @@ Intercept :  -0.307294
 deltaP90  :  14.254037
 deltaP180 : -25.938119
 deltaP360 :  13.255519
+dtype: float64
+The MSE is 0.953199
+
 ```
